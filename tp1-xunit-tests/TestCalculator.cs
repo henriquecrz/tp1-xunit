@@ -2,7 +2,7 @@ using tp1_xunit;
 
 namespace tp1_xunit_tests
 {
-    public class UnitTest1
+    public class TestCalculator
     {
         [Fact]
         public void AddTest()
