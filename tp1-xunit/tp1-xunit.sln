@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp1-xunit", "tp1-xunit\tp1-xunit.csproj", "{A94E857A-747D-400A-8676-E17C94BE78FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp1-xunit-tests", "..\tp1-xunit-tests\tp1-xunit-tests.csproj", "{01CD922F-024B-4D10-B6B7-D0534B813B85}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp1-xunit-tests", "tp1-xunit-tests\tp1-xunit-tests.csproj", "{01CD922F-024B-4D10-B6B7-D0534B813B85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
